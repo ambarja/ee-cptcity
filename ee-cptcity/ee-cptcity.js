@@ -35,7 +35,7 @@ SOFTWARE.
 GitHub Repository
 =================
 
-ee-cptcity module: link
+ee-cptcity module: https://github.com/ambarja/ee-cptcity
 */
 
 /*
