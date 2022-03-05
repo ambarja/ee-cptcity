@@ -79,8 +79,6 @@ Map.addLayer(srtm,viz,'Elevation(m)');
 
 <img src="images/p4.png" width="100%"/>
 
-<br/>
-
 ## 📚 **References**
 
 - _David Montero, 2021, ee-pokepalettes, https://github.com/davemlz/ee-pokepalettes_
