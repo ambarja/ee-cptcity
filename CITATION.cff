@@ -1,16 +1,17 @@
-# YAML 1.2
----
-authors:
-  -
-    family-names: Antonu
-    given-names: "Barja"
-    orcid: "https://orcid.org/0000-0001-5921-2858"
+# This CITATION.cff file was created by ruby-cff (v 0.9.0).
+# Gem: https://rubygems.org/gems/cff
+# CFF: https://citation-file-format.github.io/
 
-cff-version: "1.2.0"
+cff-version: 1.2.0
+message: "If you use this repository like reference, please cite it as below."
+title: "ee-cptcity"
+authors:
+- family-names: Barja
+  given-names: Antony
+  orcid: https://orcid.org/0000-0001-5921-2858
+
+version: 1.00
 date-released: 2022-03-04
-identifiers:
-    description: "cptcity for the Google Earth Engine JavaScript API (Code Editor)"
-license: "MIT-License"
-title: "cffconvert GitHub Action"
-version: 2.0.0
-...
+url: "https://github.com/ambarja/ee-cptcity"
+license: MIT License
+# doi: 10.5281/zenodo.5262851
