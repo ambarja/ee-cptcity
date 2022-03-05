@@ -21,10 +21,10 @@ Google Earth Engine is a cloud-based platform that helps access high-performance
 
 ### 🔴 **2. What is cptcity and why ?**
 
-cptcity is a platform of solium where you can find multiple pallete colors for diverses thematics relatioship with the cartography, technical illustration and design.
-The archive supports several formats and is organised by author.
+cptcity is a platform of solium where you can find multiple pallete colors for diverses thematics related to the cartography, technical illustration and design.
+The archive supports several formats and is organized by author.
 cptcity current has color palettes of the most popularity desk Geographycal Information System like **QGIS**, **GRASS** , **SAGA** , **ARCGIS** , and others.
-Current has **7000** palettes of colors, however in this first version of ee-cptcity were incorpored only Top of the cpt palettes (**75**) and **6** palettes more popular like **grass_slope, viridis, cividis, magma, plasma and inferno.**
+Currently,cptcity has **7000** palettes of colors, however in this first version of ee-cptcity were incorpored only Top of the cpt palettes (**75**) and **6** palettes more popular like **grass_slope, viridis, cividis, magma, plasma and inferno.**
 
 ### 🔴 **3. Top of the cpt palettes**
 
