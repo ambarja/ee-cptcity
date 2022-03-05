@@ -83,7 +83,7 @@ Map.addLayer(srtm,viz,'Elevation(m)');
 
 ## 📚 **References**
 
-- _Davi Montero, 2021, ee-pokepalettes, https://github.com/davemlz/ee-pokepalettes_
+- _David Montero, 2021, ee-pokepalettes, https://github.com/davemlz/ee-pokepalettes_
 
 - _Gennadii Donchyts, Fedor Baart & Justin Braaten ,2020,https://github.com/gee-community/ee-palettes_
 
