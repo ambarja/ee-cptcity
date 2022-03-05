@@ -4,6 +4,7 @@
 
 cff-version: 1.2.0
 message: "If you use this repository like reference, please cite it as below."
+description: "cptcity for the Google Earth Engine JavaScript API (Code Editor)"
 title: "ee-cptcity"
 authors:
 - family-names: Barja
