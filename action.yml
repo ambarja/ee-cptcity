@@ -1,0 +1,11 @@
+---
+author: "https://github.com/ambarja"
+branding:
+  color: purple
+  icon: check
+description: "Validate CITATION.cff files, and convert to other citation formats."
+name: cffconvert
+runs:
+  entrypoint: cffconvert
+  image: docker://citationcff/cffconvert:2.0.0
+  using: docker
