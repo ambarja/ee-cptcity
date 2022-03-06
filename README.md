@@ -9,7 +9,7 @@
 ## 📋 **Table of contents**
 
 1. What is Google Earth Engine ?
-2. Why cptcity ?
+2. What is cptcity and why ?
 3. Top of the cpt palettes
 4. Calling module and use it!
 5. Examples
