@@ -1,0 +1,23 @@
+# caucasus-topo.cpt
+#
+# extracted from Caucasus_topographic_map-fr.svg 
+# Author: Wikimedia Commons user Bourrichon
+# (http://fr.wikipedia.org/wiki/Utilisateur:Bourrichon)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2011, translation under same licence
+#
+# $Id: wiki-caucasus-topo.cpt.body,v 1.1 2011/12/30 13:31:54 jjg Exp $
+# COLOR-MODEL = RGB
+-50  167 223 210  0    167 223 210 
+0    172 208 165  500  172 208 165 
+500  239 235 192  1000 239 235 192 
+1000 222 214 163  1500 222 214 163 
+1500 211 202 157  2000 211 202 157 
+2000 202 185 130  2500 202 185 130 
+2500 195 167 107  3000 195 167 107 
+3000 185 152  90  3500 185 152  90 
+3500 170 135  83  4000 170 135  83 
+4000 170 159 141  5000 170 159 141 
+5000 224 222 216  5642 224 222 216 

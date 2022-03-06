@@ -1,0 +1,26 @@
+# isle-of-man.cpt
+#
+# extracted from Isle_of_Man_topographic_map-en.svg 
+# Author Eric Gaba (Wikimedia Commons user: Sting)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# $Id: wiki-isle-of-man.cpt.body,v 1.1 2010/03/12 22:45:49 jjg Exp $
+# COLOR_MODEL = RGB
+-200 185 227 255  -50 185 227 255
+-50  216 242 254  0   216 242 254
+0    172 208 165  25  172 208 165
+25   148 191 139  50  148 191 139
+50   168 198 143  100 168 198 143
+100  189 204 150  150 189 204 150
+150  209 215 171  200 209 215 171
+200  225 228 181  300 225 228 181
+300  239 235 192  400 239 235 192
+400  232 225 182  500 232 225 182
+500  222 214 163  600 222 214 163
+600  202 185 130  700 202 185 130
+B   0   0   0
+F 255 255 255
+N 255   0   0

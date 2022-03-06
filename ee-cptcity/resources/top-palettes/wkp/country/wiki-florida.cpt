@@ -1,0 +1,29 @@
+# florida.cpt
+#
+# extracted from Florida_topographic_map-en.svg 
+# Author Eric Gaba (Wikimedia Commons user: Sting)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# $Id: wiki-florida.cpt.body,v 1.1 2010/03/12 23:17:46 jjg Exp $
+# COLOR_MODEL = RGB
+-3692 113 171 216 -3000 113 171 216
+-3000 121 178 222 -2000 121 178 222
+-2000 132 184 227 -1500 132 184 227
+-1500 141 194 234 -1000 141 194 234
+-1000 150 201 240 -750  150 201 240
+-750  161 210 247 -500  161 210 247
+-500  172 220 251 -200  172 220 251
+-200  185 227 255 -100  185 227 255
+-100  200 235 255 -50   200 235 255
+-50   216 242 254 0     216 242 254
+0     172 208 165 25    172 208 165
+25    148 191 139 50    148 191 139
+50    168 198 143 75    168 198 143
+75    189 204 150 100   189 204 150
+100   209 215 171 150   209 215 171
+B   0   0   0
+F 255 255 255
+N 255   0   0

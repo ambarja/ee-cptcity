@@ -1,0 +1,21 @@
+# andorra.cpt
+#
+# extracted from Andorra_topographic_map-fr.svg 
+# Author Eric Gaba (Wikimedia Commons user: Sting)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# $Id: wiki-andorra.cpt.body,v 1.1 2012/04/02 20:50:45 jjg Exp $
+# COLOR_MODEL = RGB
+ 750 209 215 171  1000 209 215 171 
+1000 225 228 181  1250 225 228 181 
+1250 239 235 192  1500 239 235 192 
+1500 232 225 182  1750 232 225 182 
+1750 222 214 163  2000 222 214 163 
+2000 211 202 157  2250 211 202 157 
+2250 202 185 130  2500 202 185 130 
+2500 195 167 107  2750 195 167 107 
+2750 192 154  83  3000 192 154  83 
+3000 174 134  54  3250 174 134  54 

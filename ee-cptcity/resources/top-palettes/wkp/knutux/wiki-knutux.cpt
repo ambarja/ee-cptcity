@@ -1,0 +1,22 @@
+# knutux-lith.cpt
+#
+# elevation scheme for Lithuania taken from
+# http://fr.wikipedia.org/wiki/Fichier:LithuaniaPhysicalMap-Detailed.png
+# Author: Andrius Ramanauskas (User:Knutux), 2006
+# Licence: GFDL
+#
+# J.J. Green 2012
+# $Id
+#
+# COLOR_MODEL = RGB
+  0   74 173  90  40   74 173  90
+ 40  116 195  83  80  116 195  83 
+ 80  181 214  99 120  181 214  99 
+120  222 222  99 160  222 222  99 
+160  255 231  16 200  255 231  16 
+200  255 206   8 240  255 206   8 
+240  255 156   8 280  255 156   8 
+280  255 123  16 320  255 123  16 
+B   0    0   0
+F 255  255 123
+N 128  128 128

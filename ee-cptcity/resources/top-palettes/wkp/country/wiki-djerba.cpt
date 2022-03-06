@@ -1,0 +1,25 @@
+# djerba.cpt
+#
+# extracted from Djerba_topographic_map-fr.svg 
+# Author Eric Gaba (Wikimedia Commons user: Sting)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# $Id: wiki-djerba.cpt.body,v 1.1 2009/05/04 17:07:55 jjg Exp $
+# COLOR_MODEL = RGB
+-50 172 219 251 -20 172 219 251
+-20 185 227 255 -10 185 227 255
+-10 200 235 255 -5  200 235 255
+-5  216 242 254 0   216 242 254 
+0   172 208 165 5   172 208 165
+5   148 191 139 10  148 191 139
+10  168 198 143 20  168 198 143
+20  189 204 150 30  189 204 150
+30  209 215 171 40  209 215 171
+40  225 228 181 50  225 228 181 
+50  239 235 192 60  239 235 192
+B   0   0   0
+F 255 255 255
+N 255   0   0

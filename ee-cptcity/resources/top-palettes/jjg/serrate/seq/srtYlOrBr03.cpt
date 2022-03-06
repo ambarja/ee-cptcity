@@ -1,0 +1,12 @@
+# GMT palette srtYlOrBr03.cpt
+# 
+# This product includes color specifications and designs
+# developed by Cynthia Brewer (http://colorbrewer.org/).
+# 
+# Converted to the cpt format by J.J.Green
+# Serrated sequential palette with 4 colours
+# 
+# COLOR_MODEL = RGB
+ 0.00 254 217 142   1.00 255 255 212
+ 1.00 254 153 041   2.00 254 217 142
+ 2.00 204 076 002   3.00 254 153 041

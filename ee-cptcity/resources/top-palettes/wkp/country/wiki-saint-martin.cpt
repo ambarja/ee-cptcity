@@ -1,0 +1,30 @@
+# saint-martin.cpt
+#
+# extracted from Saint_Martin_Islands_topographic_map-fr.svg 
+# Author Eric Gaba (Wikimedia Commons user: Sting)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# $Id: wiki-saint-martin.cpt.body,v 1.1 2009/06/14 17:31:49 jjg Exp $
+# COLOR_MODEL = RGB
+-700 161 210 247 -500 161 210 247
+-500 172 220 251 -250 172 220 251
+-250 185 227 255 -100 185 227 255
+-100 200 235 255 -50  200 235 255
+-50  216 242 254 0    216 242 254
+0    172 208 165 25   172 208 165
+25   148 191 139 50   148 191 139
+50   174 202 147 75   174 202 147
+75   209 215 171 100  209 215 171
+100  239 235 192 150  239 235 192
+150  228 220 170 200  228 220 170
+200  211 202 157 250  211 202 157
+250  202 185 130 300  202 185 130
+300  195 167 107 350  195 167 107
+350  185 152  90 400  185 152  90
+400  170 135  83 411  170 135  83
+B   0   0   0
+F 255 255 255
+N 255   0   0

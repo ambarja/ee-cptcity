@@ -1,0 +1,27 @@
+# albania.cpt
+#
+# extracted from Albania_map-fr.svg 
+# Author: Wikimedia Commons user PZmaps
+# (http://commons.wikimedia.org/wiki/User:PZmaps)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# wiki-albania.cpt
+# $Id$
+# COLOR_MODEL = RGB
+-1500 172 219 251  -1000 172 219 251
+-1000 185 227 255   -500 185 227 255
+ -500 198 236 255   -100 198 236 255
+ -100 216 242 254      0 216 242 254
+    0 172 208 165    100 172 208 165
+  100 148 191 139    500 148 191 139
+  500 189 204 150   1000 189 204 150
+ 1000 225 228 181   1500 225 228 181
+ 1500 222 214 163   2000 222 214 163
+ 2000 202 185 130   2500 202 185 130
+ 2500 185 152  90   3000 185 152  90
+B   0   0   0
+F 255 255 255
+N 255   0   0

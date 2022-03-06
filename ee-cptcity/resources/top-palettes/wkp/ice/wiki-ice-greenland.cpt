@@ -1,0 +1,28 @@
+# ice-greenland.cpt
+#
+# extracted from Greenland_ice_sheet_AMSL_thickness_map-en.svg 
+# by Eric Gaba (Wikimedia Commons user: Sting) released under 
+# the following licence:
+#
+# Permission is granted to copy, distribute and/or modify this document 
+# under the terms of the GNU Free Documentation License, Version 1.2 or 
+# any later version published by the Free Software Foundation; with no 
+# Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A 
+# copy of the license is included in the section entitled "GNU Free 
+# Documentation License".
+#
+# Translated by J.J. Green 2011, translation under same licence
+#
+# $Id$
+# COLOR_MODEL = RGB
+10    247 253 254  1000  247 253 254 
+1000  242 248 248  1500  242 248 248 
+1500  229 240 242  2000  229 240 242 
+2000  217 231 233  2500  217 231 233 
+2500  207 225 228  3000  207 225 228 
+3000  195 219 223  3205  195 219 223
+
+
+
+
+

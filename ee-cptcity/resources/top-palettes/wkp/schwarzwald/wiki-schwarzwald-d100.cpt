@@ -1,0 +1,29 @@
+# wiki-schwarzwald-d100.cpt
+#
+# discrete 100m step, extracted from
+# http://commons.wikimedia.org/wiki/File:Schwarzwald-topographie.png
+# Author: wikipedia users W-j-s, Jide 
+# Licence: Creative Commons Attribution-Share Alike 3.0 Unported
+#
+# J.J. Green 2012
+# $Id: wiki-schwarzwald-d100.cpt,v 1.2 2012/03/27 09:08:58 jjg Exp $
+#
+# COLOR_MODEL = RGB
+0	176	243	190	100	176	243	190
+100	224	251	178	200	224	251	178
+200	184	222	118	300	184	222	118
+300	39	165	42	400	39	165	42
+400	52	136	60	500	52	136	60
+500	156	164	41	600	156	164	41
+600	248	176	4	700	248	176	4
+700	192	74	2	800	192	74	2
+800	135	8	0	900	135	8	0
+900	116	24	5	1000	116	24	5
+1000	108	42	10	1100	108	42	10
+1100	125	74	43	1200	125	74	43
+1200	156	129	112	1300	156	129	112
+1300	181	181	181	1400	181	181	181
+1400	218	216	218	1500	218	216	218
+B	255	255	255
+F	0	0	0
+N	255	0	0

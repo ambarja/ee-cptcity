@@ -1,0 +1,18 @@
+# caucasus-bath.cpt
+#
+# extracted from Caucasus_topographic_map-fr.svg 
+# Author: Wikimedia Commons user Bourrichon
+# (http://fr.wikipedia.org/wiki/Utilisateur:Bourrichon)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2011, translation under same licence
+#
+# $Id: wiki-caucasus-bath.cpt.body,v 1.1 2011/12/30 13:32:29 jjg Exp $
+# COLOR_MODEL = RGB
+-3000  121 178 222  -2000  121 178 222 
+-2000  141 193 234  -1500  141 193 234 
+-1500  161 210 247  -1000  161 210 247 
+-1000  185 227 255  -500   185 227 255 
+-500   216 242 254  0      216 242 254 
+

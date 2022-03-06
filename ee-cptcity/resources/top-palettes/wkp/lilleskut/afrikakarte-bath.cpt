@@ -1,0 +1,20 @@
+# afrikakarte-topo.cpt
+#
+# From the Afrikakarte map by WikiMedia user Lilleskut
+# http://de.wikipedia.org/wiki/Benutzer:Lilleskut/Afrikakarte
+#
+# licence: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+# http://creativecommons.org/licenses/by-sa/3.0/deed.en
+# $Id: afrikakarte-bath.cpt,v 1.1 2012/07/04 09:42:59 jjg Exp $
+#
+# COLOR_MODEL = RGB
+-11000 127    168    203    -5500  146    181    213
+-5500  146    181    213    -3000  160    194    222
+-3000  160    194    222    -2000  173    203    230
+-2000  173    203    230    -750   185    213    237
+-750   185    213    237    -70    196    223    244
+-70    196    223    244    -20    206    231    253
+-20    206    231    249      0    218    240    253
+B 36  38 175
+F 218 240 253
+N 218 240 253

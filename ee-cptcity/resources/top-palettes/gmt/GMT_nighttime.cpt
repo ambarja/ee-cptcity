@@ -1,0 +1,12 @@
+# $Id: GMT_nighttime.cpt,v 1.0 2010/07/13 23:11:20 pwessel Exp $
+#
+# Colortable for DMSP-OLS Nighttime Lights Time Series
+# Designed by Andreas Trawoeger.
+# This work has been released into the public domain by the copyright holder.
+#
+# COLOR_MODEL = HSV
+0    260 1.00 0.10  0.5 195 0.55 0.55
+0.5  065 0.55 0.55  1.0 000 0.10 1.00
+B    260 1.00 0.10
+F    000 0.10 1.00
+N    000 0.10 1.00

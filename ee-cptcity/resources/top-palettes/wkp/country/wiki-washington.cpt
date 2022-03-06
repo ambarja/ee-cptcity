@@ -1,0 +1,29 @@
+# washington.cpt
+#
+# extracted from Washington_topographic_map-fr.svg 
+# Author: Wikimedia Commons user Bourrichon
+# (http://fr.wikipedia.org/wiki/Utilisateur:Bourrichon)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2011, translation under same licence
+#
+# $Id: wiki-washington.cpt.body,v 1.1 2011/12/30 13:33:05 jjg Exp $
+# COLOR_MODEL = RGB
+-3000 113 171 216  -2000 113 171 216 
+-2000 121 178 222  -1500 121 178 222 
+-1500 141 193 234  -1000 141 193 234 
+-1000 161 210 247  -500  161 210 247 
+-500  185 227 255  -100  185 227 255 
+-100  216 242 254  0     216 242 254 
+0     172 208 165  100   172 208 165 
+100   148 191 139  250   148 191 139 
+250   189 204 150  500   189 204 150 
+500   209 215 171  750   209 215 171 
+750   225 228 181  1000  225 228 181 
+1000  222 214 163  1250  222 214 163 
+1250  202 185 130  1500  202 185 130 
+1500  195 167 107  1750  195 167 107 
+1750  170 135  83  2000  170 135  83 
+2000  186 174 154  3000  186 174 154 
+3000  245 244 242  4392  245 244 242 

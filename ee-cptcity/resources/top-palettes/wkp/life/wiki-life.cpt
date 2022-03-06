@@ -1,0 +1,20 @@
+# wiki-life.cpt
+#
+# Extracted from the wikipedia map
+# http://commons.wikimedia.org/wiki/File:Life_expectancy_world_map.PNG
+# Authors: Astrokey44, Pallando, Vardion
+# Licence: Creative Commons Attribution-Share Alike 3.0 Unported
+# 
+# J.J. Green 2012
+# $Id: wiki-life.cpt,v 1.3 2012/03/26 21:02:06 jjg Exp $
+#
+# COLOR_MODEL = RGB
+0   139   0   0  50  139   0   0 
+50  255   0   0  60  255   0   0 
+60  255 140   0  70  255 140   0 
+70  255 255   0  75  255 255   0 
+75    0 255   0  80    0 255   0 
+80    0 100   0  100   0 100   0 
+B   0   0   0
+F   0 100 100 
+N 128 128 128

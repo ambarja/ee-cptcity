@@ -1,0 +1,33 @@
+# quebec.cpt
+#
+# extracted from Quebec_province_topographic_map-fr.svg 
+# Author Eric Gaba (Wikimedia Commons user: Sting)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# $Id: wiki-quebec.cpt.body,v 1.1 2009/08/21 23:50:04 jjg Exp $
+# COLOR_MODEL = RGB
+-3500 113 171 216 -3000 113 171 216
+-3000 121 178 222 -2500 121 178 222
+-2500 132 184 227 -2000 132 184 227
+-2000 141 194 234 -1500 141 194 234
+-1500 150 201 240 -1000 150 201 240
+-1000 161 210 247 -500  161 210 247
+-500  172 220 251 -250  172 220 251
+-250  185 227 255 -100  185 227 255
+-100  200 235 255 -50   200 235 255
+-50   216 242 254 0     216 242 254
+0     172 208 165 100   172 208 165
+100   148 191 139 250   148 191 139
+250   168 198 143 500   168 198 143
+500   189 204 150 750   189 204 150
+750   209 215 171 1000  209 215 171
+1000  225 228 181 1250  225 228 181
+1250  239 235 192 1500  239 235 192
+1500  222 214 163 1750  222 214 163
+1750  202 185 130 1917  202 185 130
+B   0   0   0
+F 255 255 255
+N 255   0   0

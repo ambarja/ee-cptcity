@@ -1,0 +1,31 @@
+# zurich.cpt
+#
+# extracted from Zurich_area_topographic_map-fr.svg 
+# Author Eric Gaba (Wikimedia Commons user: Sting)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2012, translation under same licence
+#
+# $Id: wiki-zurich.cpt.body,v 1.1 2010/03/12 22:55:30 jjg Exp $
+# COLOR_MODEL = RGB
+300  148 191 139  350 148 191 139
+350  168 198 143  400 168 198 143
+400  189 204 150  450 189 204 150
+450  209 215 171  500 209 215 171
+500  225 228 181  550 225 228 181
+550  239 235 192  600 239 235 192
+600  232 225 182  650 232 225 182
+650  222 214 163  700 222 214 163
+700  211 202 157  750 211 202 157
+750  202 185 130  800 202 185 130
+800  195 167 107  850 195 167 107
+850  192 154  83  900 192 154  83
+900  184 146  71  950 184 146  71
+950  175 140  71 1000 175 140  71
+1000 168 136  71 1050 168 136  71
+1050 159 128  72 1100 159 128  72
+B   0   0   0
+F 255 255 255
+N 255   0   0
+

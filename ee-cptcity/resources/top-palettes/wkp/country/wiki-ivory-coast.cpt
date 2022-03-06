@@ -1,0 +1,21 @@
+# ivory-coast.cpt
+#
+# extracted from Côte_d'Ivoire_topographic_map-fr.svg 
+# Author: Wikimedia Commons user Bourrichon
+# (http://fr.wikipedia.org/wiki/Utilisateur:Bourrichon)
+# Licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+# (see http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+#
+# Translated by J.J. Green 2011, translation under same licence
+#
+# $Id: wiki-ivory-coast.cpt.body,v 1.1 2012/04/02 20:50:26 jjg Exp $
+# COLOR_MODEL = RGB 
+-4000 140 187 223 -3000 140 187 223 
+-3000 146 192 228 -2000 146 192 228
+-2000 163 205 238 -1000 163 205 238 
+-1000 179 218 248  -200 179 218 248 
+ -200 209 239 255     0 209 239 255 
+    0 188 217 182   200 188 217 182 
+  200 158 185 148   500 158 185 148 
+  500 228 222 180  1000 228 222 180 
+ 1000 206 184 135  1500 206 184 135 

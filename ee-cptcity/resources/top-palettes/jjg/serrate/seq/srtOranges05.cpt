@@ -1,0 +1,14 @@
+# GMT palette srtOranges05.cpt
+# 
+# This product includes color specifications and designs
+# developed by Cynthia Brewer (http://colorbrewer.org/).
+# 
+# Converted to the cpt format by J.J.Green
+# Serrated sequential palette with 6 colours
+# 
+# COLOR_MODEL = RGB
+ 0.00 253 208 162   1.00 254 237 222
+ 1.00 253 174 107   2.00 253 208 162
+ 2.00 253 141 060   3.00 253 174 107
+ 3.00 230 085 013   4.00 253 141 060
+ 4.00 166 054 003   5.00 230 085 013

@@ -1,0 +1,12 @@
+# eons.cpt
+# colours from the Wikigeologic scales, dates (MYa)
+# from wikipedia pages
+#
+# COLOR_MODEL = RGB
+0    154 217 229  542  154 217 229
+542  251 154 148  2500 251 154 148
+2500 240   2 127  3800 240   2 127
+3800 208  64  64  4800 208  64  64
+B   0   0   0
+F 255 255 255
+N 255   0   0

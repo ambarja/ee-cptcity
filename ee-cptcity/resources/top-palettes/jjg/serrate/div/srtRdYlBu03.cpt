@@ -1,0 +1,12 @@
+# GMT palette srtRdYlBu03.cpt
+# 
+# This product includes color specifications and designs
+# developed by Cynthia Brewer (http://colorbrewer.org/).
+# 
+# Converted to the cpt format by J.J.Green
+# Serrated diverging palette with 4 colours
+# 
+# COLOR_MODEL = RGB
+-1.50 253 174 097  -0.50 215 025 028
+-0.50 171 217 233   0.50 253 174 097
+ 0.50 044 123 182   1.50 171 217 233
