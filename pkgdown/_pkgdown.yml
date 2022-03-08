@@ -12,21 +12,36 @@ navbar:
   fg: "#444"
   text: Antony
   structure:
-    right: [search, github, twitter]
+    right: [search, github, twitter, linkedin]
 
   components:
     twitter:
       icon: fa-twitter
-      href: http://twitter.com/hadleywickham
+      href: http://twitter.com/antony_barja
       aria-label: Twitter
     github:
      icon: fa-github
      href: https://github.com/ambarja
      aria-label: GitHub
+    linkedin:
+     icon: fa-linkedin
+     href: https://www.linkedin.com/in/antonybarja/
+     aria-label: Linkedin
 
 footer:
   structure:
     left: developed_by
     right: built_with
 
-
+reference:
+- title: arendal (3)
+  desc:  The GRID-Arendal Maps & Graphics Library is an on-going project to collect and catalogue all graphic products that have been prepared for publications and web-sites from the last 15 years in a wide range of themes related to environment and sustainable development.
+  
+- title: cividis (1)
+  desc: The cividis colormap, designed to give the most accurate perception of scientific data by as many viewers as possible. The "authors:" J. R. Nuñez, C. R. Anderton and R. S. Renslow give details on the design and motivation in their 2016 article, Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data. PLoS ONE 13(7) (doi).
+  
+  
+  
+  
+  
+  

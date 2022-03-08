@@ -1,0 +1,14 @@
+.text-muted {
+    --bs-text-opacity: 1;
+    color: #ffffff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1);
+}
+
+.navbar-dark input[type="search"] {
+    border-color: #ffffff;
+    background-color: #ffffff;
+    color: #e9ecef;
+}
