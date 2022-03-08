@@ -1,0 +1,32 @@
+url:  https://ambarja.github.io/ee-cptcity/
+template:
+  bootstrap: 5
+  bslib:
+    base_font: {google: "Roboto"}
+    heading_font: {google: "Roboto Slab"}
+    code_font: {google: "JetBrains Mono"}
+  lang: en
+
+navbar:
+  bg: primary
+  fg: "#444"
+  text: Antony
+  structure:
+    right: [search, github, twitter]
+
+  components:
+    twitter:
+      icon: fa-twitter
+      href: http://twitter.com/hadleywickham
+      aria-label: Twitter
+    github:
+     icon: fa-github
+     href: https://github.com/ambarja
+     aria-label: GitHub
+
+footer:
+  structure:
+    left: developed_by
+    right: built_with
+
+

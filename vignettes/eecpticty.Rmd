@@ -1,0 +1,11 @@
+---
+title: 'Hola'
+author: "Timothée Giraud"
+date: '`r Sys.Date()`'
+output: 
+  rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{mapsf}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---

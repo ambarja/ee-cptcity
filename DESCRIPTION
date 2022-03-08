@@ -1,0 +1,17 @@
+Package: eecptcity
+Type: Package
+Title: ee-cptcity
+Version: 0.2.0
+Authors@R: 
+ c(person(given = "Antony",
+          family = "Barja",
+          role = c("aut","cre"),
+          email = "antonymarcosbarja@gmail.com",
+          comment = c(ORCID = "0000-0001-5921-2858")))
+Maintainer: The package maintainer <antonymarcosbarja@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+URL: https://ambarja.github.io/ee-cptcity/
