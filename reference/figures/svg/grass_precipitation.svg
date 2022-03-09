@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="300"
+   height="50"
+   viewBox="0 0 300 50"
+   id="svg31"
+   sodipodi:docname="grass_precipitation.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs35" />
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.9216667"
+     inkscape:cx="159.49696"
+     inkscape:cy="9.366869"
+     inkscape:window-width="1366"
+     inkscape:window-height="698"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31" />
+  <g
+     id="g27"
+     style="stroke:none"
+     transform="matrix(1.0273973,0,0,1.3513514,-4.1095892,-5.4054056)">
+    <defs
+       id="defs23">
+      <linearGradient
+         id="precipitation"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad"
+         x1="1.423867"
+         x2="105.36616"
+         y1="11.237005"
+         y2="11.237005"
+         gradientTransform="scale(2.8092511,0.35596675)">
+        <stop
+           offset="0.00%"
+           stop-color="rgb(255,255,255)"
+           stop-opacity="1.0000"
+           id="stop2" />
+        <stop
+           offset="1.79%"
+           stop-color="rgb(158,255,222)"
+           stop-opacity="1.0000"
+           id="stop4" />
+        <stop
+           offset="3.57%"
+           stop-color="rgb(200,255,255)"
+           stop-opacity="1.0000"
+           id="stop6" />
+        <stop
+           offset="7.14%"
+           stop-color="rgb(0,255,255)"
+           stop-opacity="1.0000"
+           id="stop8" />
+        <stop
+           offset="10.71%"
+           stop-color="rgb(0,0,255)"
+           stop-opacity="1.0000"
+           id="stop10" />
+        <stop
+           offset="14.29%"
+           stop-color="rgb(153,51,255)"
+           stop-opacity="1.0000"
+           id="stop12" />
+        <stop
+           offset="21.43%"
+           stop-color="rgb(128,0,255)"
+           stop-opacity="1.0000"
+           id="stop14" />
+        <stop
+           offset="28.57%"
+           stop-color="rgb(51,0,51)"
+           stop-opacity="1.0000"
+           id="stop16" />
+        <stop
+           offset="71.43%"
+           stop-color="rgb(20,0,20)"
+           stop-opacity="1.0000"
+           id="stop18" />
+        <stop
+           offset="100.00%"
+           stop-color="rgb(0,0,0)"
+           stop-opacity="1.0000"
+           id="stop20" />
+      </linearGradient>
+    </defs>
+    <rect
+       fill="url(#precipitation)"
+       x="4"
+       y="4"
+       width="292"
+       height="37"
+       stroke="black"
+       stroke-width="1"
+       id="rect25"
+       style="fill:url(#precipitation);stroke:none" />
+  </g>
+  <metadata
+     id="metadata29">
+    <creator
+       name="cptutils"
+       version="1.46" />
+    <created
+       date="Wed Aug 15 23:30:57 2012" />
+  </metadata>
+</svg>
