@@ -23,8 +23,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.8433333"
-     inkscape:cx="242.10755"
-     inkscape:cy="18.473547"
+     inkscape:cx="155.7242"
+     inkscape:cy="20.294883"
      inkscape:window-width="1366"
      inkscape:window-height="698"
      inkscape:window-x="0"
@@ -33,7 +33,7 @@
      inkscape:current-layer="g79" />
   <g
      id="g79"
-     transform="translate(-4,-4)">
+     transform="translate(-86.415642,-12.776748)">
     <defs
        id="defs75">
       <linearGradient
@@ -44,7 +44,7 @@
          x2="105.36616"
          y1="11.237005"
          y2="11.237005"
-         gradientTransform="matrix(2.886217,0,0,0.48103617,-0.10958904,-1.4054054)">
+         gradientTransform="matrix(2.8862169,0,0,0.48103618,82.306058,7.37134)">
         <stop
            offset="0.00%"
            stop-color="rgb(30, 92, 179)"
@@ -229,8 +229,8 @@
     </defs>
     <rect
        fill="url(#temperature)"
-       x="4"
-       y="4"
+       x="86.415642"
+       y="12.776748"
        width="300"
        height="50"
        stroke="black"
