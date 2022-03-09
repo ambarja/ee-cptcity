@@ -12,3 +12,9 @@
     background-color: #ffffff;
     color: #e9ecef;
 }
+
+.perfil{
+  border-radius: 50%;
+  width: 200px;
+  margin-right: 20px;
+}
