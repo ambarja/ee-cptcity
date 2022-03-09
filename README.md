@@ -49,7 +49,7 @@ var srtm = ee.Image('NASA/NASADEM_HGT/001')
 var viz = {
   min: 400,
   max: 4000,
-  palette:cpt.pal.dem_poster
+  palette:cpt.pal.grass_elevation
   };
 ```
 
