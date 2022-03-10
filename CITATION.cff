@@ -11,6 +11,10 @@ authors:
   given-names: Antony
   orcid: https://orcid.org/0000-0001-5921-2858
 
+- family-names: Caceres
+  given-names: Mario
+  orcid: https://orcid.org/0000-0002-3599-7328
+  
 version: 1.00
 date-released: 2022-03-04
 url: "https://github.com/ambarja/ee-cptcity"
