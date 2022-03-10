@@ -3,6 +3,7 @@
 # **cptcity for the Google Earth Engine JavaScript API (Code Editor)** <a href="#"><img src="man/figures/ee-cptcity.gif" width="100%"></a>
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 ## 📋 **Table of contents**
@@ -11,7 +12,6 @@
 2.  What is cptcity and why ?
 3.  Top of the cpt palettes
 4.  Calling module and use it!
-5.  Examples
 
 ### 🔴 **1. What is Google Earth Engine ?**
 
@@ -23,7 +23,15 @@ al.,2017).](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 
 ### 🔴 **2. What is cptcity and why ?**
 
-Cptcity is a solium platform where you can find multiple colour palettes for various themes related to cartography, technical illustration and design. The archive supports various formats and is organised by author. Cptcity currently has colour palettes for the most popular desktop Geographic Information Systems such as **QGIS**, **GRASS** , **SAGA** , **ARCGIS** , and others. Currently, it has **7000 colour palettes**, however in this second version of ee-cptcity module more than **300** colour palettes were incorporated along with 2 popular palettes like **rocket** , **mako** and **turbo**.
+Cptcity is a solium platform where you can find multiple colour palettes
+for various themes related to cartography, technical illustration and
+design. The archive supports various formats and is organised by author.
+Cptcity currently has colour palettes for the most popular desktop
+Geographic Information Systems such as **QGIS**, **GRASS** , **SAGA** ,
+**ARCGIS** , and others. Currently, it has **7000 colour palettes**,
+however in this second version of ee-cptcity module more than **300**
+colour palettes were incorporated along with 2 popular palettes like
+**rocket** , **mako** and **turbe**.
 
 ### 🔴 **3. Top of the cpt palettes**
 
@@ -49,41 +57,16 @@ var srtm = ee.Image('NASA/NASADEM_HGT/001')
 var viz = {
   min: 400,
   max: 4000,
-  palette:cpt.pal.grass_elevation
+  palette: cpt.pal.grass_elevation
   };
 ```
 
 ```r
+Map.setZoom(1);
 Map.addLayer(srtm,viz,'Elevation(m)');
 ```
 
-### 🔴 **5. Examples**
-
-1.  **cptcity-example-1-intro**
-    <a href="https://code.earthengine.google.com/c6879919ca2afb5b6b9dfc622ee78a4b"><img src="https://img.shields.io/badge/Open_Code_Editor-white?style=for-the-badge&logo=googleearth" align="center" width="150px"/></a>
-
-<img src="man/figures/p1.png" width="100%"/>
-
-<br/>
-
-2.  **cptcity-example-2-ndvi**
-    <a href="https://code.earthengine.google.com/fc6231e0cb1976919141a4a255baf78a"><img src="https://img.shields.io/badge/Open_Code_Editor-white?style=for-the-badge&logo=googleearth" align="center" width="150px"/></a>
-
-<img src="man/figures/p2.png" width="100%"/>
-
-<br/>
-
-3.  **cptcity-example-3-precipitation**
-    <a href="https://code.earthengine.google.com/84381f50bb9f021ad2a020da59c2440c"><img src="https://img.shields.io/badge/Open_Code_Editor-white?style=for-the-badge&logo=googleearth" align="center" width="150px"/></a>
-
-<img src="man/figures/p3.png" width="100%"/>
-
-<br/>
-
-4.  **cptcity-example-4-NO2**
-    <a href="https://code.earthengine.google.com/9f71b8b7ad985a88361d16f24f51cc75"><img src="https://img.shields.io/badge/Open_Code_Editor-white?style=for-the-badge&logo=googleearth" align="center" width="150px"/></a>
-
-<img src="man/figures/p4.png" width="100%"/>
+<img src="man/figures/p0.png" width="100%"/> <br>
 
 ## 📚 **References**
 
