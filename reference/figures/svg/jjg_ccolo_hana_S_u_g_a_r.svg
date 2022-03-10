@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="300px"
+   height="45px"
+   viewBox="0 0 300 45"
+   id="svg33"
+   sodipodi:docname="S_u_g_a_r.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs37" />
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.78"
+     inkscape:cx="149.86772"
+     inkscape:cy="22.486772"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33" />
+  <g
+     id="g29"
+     style="stroke:none"
+     transform="matrix(1.0273973,0,0,1.3513514,-0.10958904,-1.4054054)">
+    <defs
+       id="defs25">
+      <linearGradient
+         id="S_u_g_a_r"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad"
+         x1="1.423867"
+         x2="105.36616"
+         y1="11.237005"
+         y2="11.237005"
+         gradientTransform="scale(2.8092511,0.35596675)">
+        <stop
+           offset="0.00%"
+           stop-color="rgb(207,140,118)"
+           stop-opacity="1.0000"
+           id="stop2" />
+        <stop
+           offset="10.00%"
+           stop-color="rgb(207,140,118)"
+           stop-opacity="1.0000"
+           id="stop4" />
+        <stop
+           offset="20.00%"
+           stop-color="rgb(207,156,134)"
+           stop-opacity="1.0000"
+           id="stop6" />
+        <stop
+           offset="30.00%"
+           stop-color="rgb(207,172,151)"
+           stop-opacity="1.0000"
+           id="stop8" />
+        <stop
+           offset="40.00%"
+           stop-color="rgb(207,187,166)"
+           stop-opacity="1.0000"
+           id="stop10" />
+        <stop
+           offset="50.00%"
+           stop-color="rgb(207,201,180)"
+           stop-opacity="1.0000"
+           id="stop12" />
+        <stop
+           offset="60.00%"
+           stop-color="rgb(198,204,181)"
+           stop-opacity="1.0000"
+           id="stop14" />
+        <stop
+           offset="70.00%"
+           stop-color="rgb(188,207,182)"
+           stop-opacity="1.0000"
+           id="stop16" />
+        <stop
+           offset="80.00%"
+           stop-color="rgb(179,207,188)"
+           stop-opacity="1.0000"
+           id="stop18" />
+        <stop
+           offset="90.00%"
+           stop-color="rgb(171,207,195)"
+           stop-opacity="1.0000"
+           id="stop20" />
+        <stop
+           offset="100.00%"
+           stop-color="rgb(171,207,195)"
+           stop-opacity="1.0000"
+           id="stop22" />
+      </linearGradient>
+    </defs>
+    <rect
+       fill="url(#S_u_g_a_r)"
+       x="4"
+       y="4"
+       width="292"
+       height="37"
+       stroke="black"
+       stroke-width="1"
+       id="rect27"
+       style="fill:url(#S_u_g_a_r);stroke:none" />
+  </g>
+  <metadata
+     id="metadata31">
+    <creator
+       name="cptutils"
+       version="1.46" />
+    <created
+       date="Wed Aug 15 23:32:50 2012" />
+  </metadata>
+</svg>
