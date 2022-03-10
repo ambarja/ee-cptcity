@@ -4,6 +4,10 @@
 
 <!-- badges: start -->
 
+[![Lifecycle:experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 <!-- badges: end -->
 
 ## 📋 **Table of contents**
@@ -67,6 +71,10 @@ Map.addLayer(srtm,viz,'Elevation(m)');
 ```
 
 <img src="man/figures/p0.png" width="100%"/> <br>
+
+### 🔴 **5.Examples**
+
+Please, visit our [webpage](https://ambarja.github.io/ee-cptcity/) where you find more examples with cptcity inside Js and R working with Google Earth Engine.
 
 ## 📚 **References**
 
