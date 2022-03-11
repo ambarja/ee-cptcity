@@ -201,84 +201,40 @@
 <span id="cb2-4"><a href="#cb2-4"></a>var viz =<span class="st"> </span>{</span>
 <span id="cb2-5"><a href="#cb2-5"></a>  min<span class="op">:</span><span class="st"> </span><span class="dv">400</span>,</span>
 <span id="cb2-6"><a href="#cb2-6"></a>  max<span class="op">:</span><span class="st"> </span><span class="dv">4000</span>,</span>
-<span id="cb2-7"><a href="#cb2-7"></a>  palette<span class="op">:</span>cpt.pal.dem_poster</span>
+<span id="cb2-7"><a href="#cb2-7"></a>  palette<span class="op">:</span>cpt.pal.grass_elevation</span>
 <span id="cb2-8"><a href="#cb2-8"></a>  };</span></code></pre>
               </div>
               <div class="sourceCode" id="cb3">
                 <pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu">Map.addLayer</span><span class="op">(</span><span class="va">srtm</span>,<span class="va">viz</span>,<span class="st">'Elevation(m)'</span><span class="op">)</span>;</code></pre>
+<code class="sourceCode R"><span class="fu">Map.setZoom(1);<br>Map.addLayer</span><span class="op">(</span><span class="va">srtm</span>,<span class="va">viz</span>,<span class="st">'Elevation(m)'</span><span class="op">)</span>;</code></pre>
+              </div>
+              <div>
+                <img src="https://raw.githubusercontent.com/ambarja/ee-cptcity/main/man/figures/p0.png" alt="elevation"
+                  width="100%">
               </div>
             </div>
-            <div class="section level3">
-              <h3 id="-5-examples">🔴 <strong>5. Examples</strong>
-                <a class="anchor" aria-label="anchor" href="#-5-examples"></a>
-              </h3>
-              <ol style="list-style-type: decimal">
+            <br>
+            <div class="section level2">
+              <h2 id="-references">📚 <strong>References</strong>
+                <a class="anchor" aria-label="anchor" href="#-references"></a>
+              </h2>
+              <ul>
                 <li>
-                  <strong>cptcity-example-1-intro</strong> <a
-                    href="https://code.earthengine.google.com/c6879919ca2afb5b6b9dfc622ee78a4b"
-                    class="external-link"><img
-                      src="https://img.shields.io/badge/Open_Code_Editor-white?style=for-the-badge&amp;logo=googleearth"
-                      align="center" width="150px"></a>
+                  <p><em>David Montero, 2021, ee-pokepalettes, <a href="https://github.com/davemlz/ee-pokepalettes"
+                        class="external-link uri">https://github.com/davemlz/ee-pokepalettes</a></em></p>
                 </li>
-              </ol>
-              <p><img src="reference/figures/p1.png" width="100%"></p>
-              <p><br></p>
-              <ol start="2" style="list-style-type: decimal">
                 <li>
-                  <strong>cptcity-example-2-ndvi</strong> <a
-                    href="https://code.earthengine.google.com/fc6231e0cb1976919141a4a255baf78a"
-                    class="external-link"><img
-                      src="https://img.shields.io/badge/Open_Code_Editor-white?style=for-the-badge&amp;logo=googleearth"
-                      align="center" width="150px"></a>
+                  <p><em>Gennadii Donchyts, Fedor Baart &amp; Justin Braaten ,2020,<a
+                        href="https://github.com/gee-community/ee-palettes"
+                        class="external-link uri">https://github.com/gee-community/ee-palettes</a></em></p>
                 </li>
-              </ol>
-              <p><img src="reference/figures/p2.png" width="100%"></p>
-              <p><br></p>
-              <ol start="3" style="list-style-type: decimal">
                 <li>
-                  <strong>cptcity-example-3-precipitation</strong> <a
-                    href="https://code.earthengine.google.com/84381f50bb9f021ad2a020da59c2440c"
-                    class="external-link"><img
-                      src="https://img.shields.io/badge/Open_Code_Editor-white?style=for-the-badge&amp;logo=googleearth"
-                      align="center" width="150px"></a>
+                  <p><em>Sergio Ibarra Espinosa, 2017, cptcity, <a href="https://github.com/ibarraespinosa/cptcity"
+                        class="external-link uri">https://github.com/ibarraespinosa/cptcity</a></em></p>
                 </li>
-              </ol>
-              <p><img src="reference/figures/p3.png" width="100%"></p>
-              <p><br></p>
-              <ol start="4" style="list-style-type: decimal">
-                <li>
-                  <strong>cptcity-example-4-NO2</strong> <a
-                    href="https://code.earthengine.google.com/9f71b8b7ad985a88361d16f24f51cc75"
-                    class="external-link"><img
-                      src="https://img.shields.io/badge/Open_Code_Editor-white?style=for-the-badge&amp;logo=googleearth"
-                      align="center" width="150px"></a>
-                </li>
-              </ol>
-              <p><img src="reference/figures/p4.png" width="100%"></p>
+              </ul>
             </div>
           </div>
-          <div class="section level2">
-            <h2 id="-references">📚 <strong>References</strong>
-              <a class="anchor" aria-label="anchor" href="#-references"></a>
-            </h2>
-            <ul>
-              <li>
-                <p><em>David Montero, 2021, ee-pokepalettes, <a href="https://github.com/davemlz/ee-pokepalettes"
-                      class="external-link uri">https://github.com/davemlz/ee-pokepalettes</a></em></p>
-              </li>
-              <li>
-                <p><em>Gennadii Donchyts, Fedor Baart &amp; Justin Braaten ,2020,<a
-                      href="https://github.com/gee-community/ee-palettes"
-                      class="external-link uri">https://github.com/gee-community/ee-palettes</a></em></p>
-              </li>
-              <li>
-                <p><em>Sergio Ibarra Espinosa, 2017, cptcity, <a href="https://github.com/ibarraespinosa/cptcity"
-                      class="external-link uri">https://github.com/ibarraespinosa/cptcity</a></em></p>
-              </li>
-            </ul>
-          </div>
-        </div>
       </main>
       <aside class="col-md-3">
         <div class="license">
