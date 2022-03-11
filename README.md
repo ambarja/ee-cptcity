@@ -7,7 +7,7 @@
 [![Lifecycle:experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![DOI](https://zenodo.org/badge/466339915.svg)](https://zenodo.org/badge/latestdoi/466339915)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6345657.svg)](https://doi.org/10.5281/zenodo.6345657)
 <a href="https://ko-fi.com/ambarja" Title="Support"><img src="https://img.shields.io/badge/Buy_me_coffee-%E2%9D%A4%C2%A0-ff9900.svg?style=for-the-badge/">
 
 <!-- badges: end -->
