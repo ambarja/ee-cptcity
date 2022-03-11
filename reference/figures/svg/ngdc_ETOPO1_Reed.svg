@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="300px"
+   height="45px"
+   viewBox="0 0 300 45"
+   id="svg67"
+   sodipodi:docname="ngdc_ETOPO1_Reed.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs71" />
+  <sodipodi:namedview
+     id="namedview69"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.78"
+     inkscape:cx="149.86772"
+     inkscape:cy="22.486772"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg67" />
+  <g
+     id="g63"
+     style="stroke:none"
+     transform="matrix(1.0273973,0,0,1.3513514,-0.10958904,-1.4054054)">
+    <defs
+       id="defs59">
+      <linearGradient
+         id="ETOPO1-Reed"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad"
+         x1="1.423867"
+         x2="105.36616"
+         y1="11.237005"
+         y2="11.237005"
+         gradientTransform="scale(2.8092511,0.35596675)">
+        <stop
+           offset="0.00%"
+           stop-color="rgb(16,6,180)"
+           stop-opacity="1.0000"
+           id="stop2" />
+        <stop
+           offset="15.38%"
+           stop-color="rgb(16,6,180)"
+           stop-opacity="1.0000"
+           id="stop4" />
+        <stop
+           offset="15.38%"
+           stop-color="rgb(0,14,203)"
+           stop-opacity="1.0000"
+           id="stop6" />
+        <stop
+           offset="25.64%"
+           stop-color="rgb(0,14,203)"
+           stop-opacity="1.0000"
+           id="stop8" />
+        <stop
+           offset="25.64%"
+           stop-color="rgb(12,68,231)"
+           stop-opacity="1.0000"
+           id="stop10" />
+        <stop
+           offset="35.90%"
+           stop-color="rgb(12,68,231)"
+           stop-opacity="1.0000"
+           id="stop12" />
+        <stop
+           offset="35.90%"
+           stop-color="rgb(21,158,252)"
+           stop-opacity="1.0000"
+           id="stop14" />
+        <stop
+           offset="46.15%"
+           stop-color="rgb(21,158,252)"
+           stop-opacity="1.0000"
+           id="stop16" />
+        <stop
+           offset="46.15%"
+           stop-color="rgb(65,200,255)"
+           stop-opacity="1.0000"
+           id="stop18" />
+        <stop
+           offset="51.28%"
+           stop-color="rgb(65,200,255)"
+           stop-opacity="1.0000"
+           id="stop20" />
+        <stop
+           offset="51.28%"
+           stop-color="rgb(94,223,255)"
+           stop-opacity="1.0000"
+           id="stop22" />
+        <stop
+           offset="53.85%"
+           stop-color="rgb(94,223,255)"
+           stop-opacity="1.0000"
+           id="stop24" />
+        <stop
+           offset="53.85%"
+           stop-color="rgb(138,227,255)"
+           stop-opacity="1.0000"
+           id="stop26" />
+        <stop
+           offset="56.41%"
+           stop-color="rgb(138,227,255)"
+           stop-opacity="1.0000"
+           id="stop28" />
+        <stop
+           offset="56.41%"
+           stop-color="rgb(51,102,0)"
+           stop-opacity="1.0000"
+           id="stop30" />
+        <stop
+           offset="56.92%"
+           stop-color="rgb(0,51,102)"
+           stop-opacity="1.0000"
+           id="stop32" />
+        <stop
+           offset="56.92%"
+           stop-color="rgb(51,204,102)"
+           stop-opacity="1.0000"
+           id="stop34" />
+        <stop
+           offset="58.97%"
+           stop-color="rgb(51,204,102)"
+           stop-opacity="1.0000"
+           id="stop36" />
+        <stop
+           offset="58.97%"
+           stop-color="rgb(255,220,185)"
+           stop-opacity="1.0000"
+           id="stop38" />
+        <stop
+           offset="61.54%"
+           stop-color="rgb(255,220,185)"
+           stop-opacity="1.0000"
+           id="stop40" />
+        <stop
+           offset="61.54%"
+           stop-color="rgb(243,202,137)"
+           stop-opacity="1.0000"
+           id="stop42" />
+        <stop
+           offset="66.67%"
+           stop-color="rgb(243,202,137)"
+           stop-opacity="1.0000"
+           id="stop44" />
+        <stop
+           offset="66.67%"
+           stop-color="rgb(217,166,39)"
+           stop-opacity="1.0000"
+           id="stop46" />
+        <stop
+           offset="76.92%"
+           stop-color="rgb(217,166,39)"
+           stop-opacity="1.0000"
+           id="stop48" />
+        <stop
+           offset="76.92%"
+           stop-color="rgb(159,123,13)"
+           stop-opacity="1.0000"
+           id="stop50" />
+        <stop
+           offset="87.18%"
+           stop-color="rgb(159,123,13)"
+           stop-opacity="1.0000"
+           id="stop52" />
+        <stop
+           offset="87.18%"
+           stop-color="rgb(178,118,118)"
+           stop-opacity="1.0000"
+           id="stop54" />
+        <stop
+           offset="100.00%"
+           stop-color="rgb(178,118,118)"
+           stop-opacity="1.0000"
+           id="stop56" />
+      </linearGradient>
+    </defs>
+    <rect
+       fill="url(#ETOPO1-Reed)"
+       x="4"
+       y="4"
+       width="292"
+       height="37"
+       stroke="black"
+       stroke-width="1"
+       id="rect61"
+       style="fill:url(#ETOPO1-Reed);stroke:none" />
+  </g>
+  <metadata
+     id="metadata65">
+    <creator
+       name="cptutils"
+       version="1.46" />
+    <created
+       date="Wed Aug 15 23:30:53 2012" />
+  </metadata>
+</svg>
