@@ -3,10 +3,10 @@
 # CFF: https://citation-file-format.github.io/
 
 cff-version: 1.2.0
-message: "If you use this repository like reference, please cite it as below."
 description: "cptcity for the Google Earth Engine JavaScript API (Code Editor)"
 title: "ee-cptcity"
 authors:
+
 - family-names: Barja
   given-names: Antony
   orcid: https://orcid.org/0000-0001-5921-2858
@@ -16,7 +16,7 @@ authors:
   orcid: https://orcid.org/0000-0002-3599-7328
   
 version: 1.00
-date-released: 2022-03-04
+date-released: 2022-03-10
 url: "https://github.com/ambarja/ee-cptcity"
 license: MIT License
 # doi: 10.5281/zenodo.5262851
