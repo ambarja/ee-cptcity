@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="300"
+   height="50"
+   viewBox="0 0 300 50"
+   id="svg49"
+   sodipodi:docname="GMT_relief.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs53" />
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.8433333"
+     inkscape:cx="146.09714"
+     inkscape:cy="18.473547"
+     inkscape:window-width="1366"
+     inkscape:window-height="698"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g45" />
+  <g
+     id="g45"
+     transform="translate(-4,-4)">
+    <defs
+       id="defs41">
+      <linearGradient
+         id="GMT_relief"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad"
+         x1="1.423867"
+         x2="105.36616"
+         y1="11.237005"
+         y2="11.237005"
+         gradientTransform="matrix(2.886217,0,0,0.48103617,-0.10958904,-1.4054054)">
+        <stop
+           offset="0.00%"
+           stop-color="rgb(0, 0, 0)"
+           stop-opacity="1.0000"
+           id="stop2" />
+        <stop
+           offset="6.25%"
+           stop-color="rgb(0, 5, 25)"
+           stop-opacity="1.0000"
+           id="stop4" />
+        <stop
+           offset="12.50%"
+           stop-color="rgb(0, 10, 50)"
+           stop-opacity="1.0000"
+           id="stop6" />
+        <stop
+           offset="18.75%"
+           stop-color="rgb(0, 80, 125)"
+           stop-opacity="1.0000"
+           id="stop8" />
+        <stop
+           offset="25.00%"
+           stop-color="rgb(0, 150, 200)"
+           stop-opacity="1.0000"
+           id="stop10" />
+        <stop
+           offset="31.25%"
+           stop-color="rgb(86, 197, 184)"
+           stop-opacity="1.0000"
+           id="stop12" />
+        <stop
+           offset="37.50%"
+           stop-color="rgb(172, 245, 168)"
+           stop-opacity="1.0000"
+           id="stop14" />
+        <stop
+           offset="43.75%"
+           stop-color="rgb(211, 250, 211)"
+           stop-opacity="1.0000"
+           id="stop16" />
+        <stop
+           offset="50.00%"
+           stop-color="rgb(250, 255, 255)"
+           stop-opacity="1.0000"
+           id="stop18" />
+        <stop
+           offset="50.00%"
+           stop-color="rgb(70, 120, 50)"
+           stop-opacity="1.0000"
+           id="stop20" />
+        <stop
+           offset="53.12%"
+           stop-color="rgb(120, 100, 50)"
+           stop-opacity="1.0000"
+           id="stop22" />
+        <stop
+           offset="56.25%"
+           stop-color="rgb(146, 126, 60)"
+           stop-opacity="1.0000"
+           id="stop24" />
+        <stop
+           offset="62.50%"
+           stop-color="rgb(198, 178, 80)"
+           stop-opacity="1.0000"
+           id="stop26" />
+        <stop
+           offset="68.75%"
+           stop-color="rgb(250, 230, 100)"
+           stop-opacity="1.0000"
+           id="stop28" />
+        <stop
+           offset="75.00%"
+           stop-color="rgb(250, 234, 126)"
+           stop-opacity="1.0000"
+           id="stop30" />
+        <stop
+           offset="81.25%"
+           stop-color="rgb(252, 238, 152)"
+           stop-opacity="1.0000"
+           id="stop32" />
+        <stop
+           offset="87.50%"
+           stop-color="rgb(252, 243, 177)"
+           stop-opacity="1.0000"
+           id="stop34" />
+        <stop
+           offset="93.75%"
+           stop-color="rgb(253, 249, 216)"
+           stop-opacity="1.0000"
+           id="stop36" />
+        <stop
+           offset="100.00%"
+           stop-color="rgb(255, 255, 255)"
+           stop-opacity="1.0000"
+           id="stop38" />
+      </linearGradient>
+    </defs>
+    <rect
+       fill="url(#GMT_relief)"
+       x="4"
+       y="4"
+       width="300"
+       height="50"
+       stroke="black"
+       stroke-width="1.1783"
+       id="rect43"
+       style="fill:url(#GMT_relief);stroke:none" />
+  </g>
+  <metadata
+     id="metadata47">
+    <creator
+       name="cptutils"
+       version="1.57" />
+    <created
+       date="Fri Apr 17 21:57:13 2015" />
+  </metadata>
+</svg>
