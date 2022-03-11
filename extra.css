@@ -99,4 +99,6 @@ table th {
     border-bottom: 0;
   }
 }
-
+.row>main, .row>aside {
+  margin-top: 35px;
+}
