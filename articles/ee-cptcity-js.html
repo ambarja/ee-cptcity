@@ -57,11 +57,8 @@
 
 <body>
   <a href="#main" class="visually-hidden-focusable">Skip to contents</a>
-
-
   <nav class="navbar fixed-top navbar-dark navbar-expand-lg bg-primary">
     <div class="container">
-
       <a class="navbar-brand me-2" href="../index.html">ee-cptcity</a>
 
       <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom"
@@ -129,181 +126,70 @@
 
 
     <script src="eecpticty_files/accessible-code-block-0.0.1/empty-anchor.js"></script>
-    <div class="row">
-      <main id="main">
-        <div class="row">
-          <main id="main">
-            <div class="page-header">
-              <img src="" class="logo" alt="">
-              <h1>cptcity on JS for Google Earth Engine</h1>
-              <h4 data-toc-skip class="author">Antony Barja &amp; Mario Caceres</h4>
-
-              <h4 data-toc-skip class="date">2022-03-11</h4>
-
-
-              <div class="d-none name"><code>eecpticty.Rmd</code></div>
-            </div>
-
-
-
-            <div class="section level3">
-              <h3 id="example-01-introduction-to-cptcity">1. Example 01: Introduction to cptcity <a
-                  href="https://code.earthengine.google.com/c6879919ca2afb5b6b9dfc622ee78a4b" class="external-link"><img
-                    src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
-                    align="center" width="195px"></a><a class="anchor" aria-label="anchor"
-                  href="#example-01-introduction-to-cptcity"></a>
-              </h3>
-              <div class="sourceCode" id="cb1">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> REQUIRE THE EE<span class="sc">-</span>CPTCITY MODULE</span>
-        <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>var cpt <span class="ot">=</span> <span class="fu">require</span>(<span class="st">"users/ambarja/ee-cptcity:cptcity"</span>);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb2">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> ACCESS THE COMPLETE LIST OF CPTCITY COLOR PALETTES</span>
-        <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="st">"CPTCITY COLOR PALETTES"</span>, cpt.pal);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb3">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> ACCESS A CPTCITY PALETTE<span class="sc">:</span></span>
-        <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="er">//</span> <span class="fl">1.</span>THE FIRST FORM</span>
-        <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="st">"Grass elevation"</span>, cpt.pal.grass_elevation);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb4">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> <span class="fl">2.</span>THE SECON FORM</span>
-        <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="st">"Grass elevation pallete"</span>, cpt.pal[<span class="st">"grass_elevation"</span>]);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb5">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> CREATE A COLORBAR</span>
-        <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="st">"CREATING A COLORBAR"</span>,</span>
-        <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">cpt.colorbar</span>(<span class="st">"Grass elevation"</span>,<span class="dv">0</span>,<span class="dv">100</span>,cpt.pal.grass_elevation));</span></code></pre>
+    <!-- Examples -->
+    <section id="team">
+      <div class="row mt-5 pt-4">
+        <div class="col-lg-3 col-md-6 mt-3">
+          <div class="card">
+            <div class="card-body">
+              <img src="https://raw.githubusercontent.com/ambarja/ee-cptcity/main/man/figures/p0.png" class="img-fluid">
+              <h3>Example 01</h3>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              </p>
+              <div class="d-flex flex-row justify-content-center">
+                <div class="p-1">
+                  <a href=""><img
+                      src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
+                      align="center" width="195px">
+                  </a>
+                </div>
               </div>
             </div>
-            <div class="section level3">
-              <h3 id="example-02-visualization-of-ndvi">2. Example 02: Visualization of NDVI <a
-                  href="https://code.earthengine.google.com/fc6231e0cb1976919141a4a255baf78a" class="external-link"><img
-                    src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
-                    align="center" width="195px"></a><a class="anchor" aria-label="anchor"
-                  href="#example-02-visualization-of-ndvi"></a>
-              </h3>
-              <div class="sourceCode" id="cb6">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> REQUIRE THE EE<span class="sc">-</span>CPTCITY MODULE</span>
-        <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>var cpt <span class="ot">=</span> <span class="fu">require</span>(<span class="st">"users/ambarja/ee-cptcity:cptcity"</span>);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb7">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> LET<span class="st">'S USE THE NDVI FROM MODIS TERRA OF 500M</span></span>
-        <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="st">var modis = ee.ImageCollection('</span>MODIS<span class="sc">/</span><span class="dv">006</span><span class="sc">/</span>MOD13Q1<span class="st">')</span></span>
-        <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="st">           .filterDate('</span><span class="dv">2018-01-01</span><span class="st">', '</span><span class="dv">2018-05-01</span><span class="st">')</span></span>
-        <span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a><span class="st">           .median()</span></span>
-        <span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="st">           .multiply(0.0001);</span></span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb8">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> GET THE NDVI DATA</span>
-        <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>var NDVI <span class="ot">=</span> <span class="fu">modis.select</span>(<span class="st">'NDVI'</span>);</span>
-        <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a></span>
-        <span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> SET THE MIN AND MAX VALUE OF THE VISUALIZATION</span>
-        <span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>var MIN <span class="ot">=</span> <span class="sc">-</span><span class="fl">0.09</span>;</span>
-        <span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>var MAX <span class="ot">=</span> <span class="fl">0.8</span>;</span>
-        <span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a></span>
-        <span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> VISUALIZATION OF NDVI DATA WITH CPTCITY PALLETS</span>
-        <span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(NDVI,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span>cpt.pal.grass_ndvi}, <span class="st">'grass_ndvi'</span>);</span>
-        <span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(NDVI,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span>cpt.pal.oc_ndvi}, <span class="st">'oc_ndvi'</span>);</span></code></pre>
-              </div>
-            </div>
-            <div class="section level3">
-              <h3 id="example-03-visualization-of-precipitation">3. Example 03: Visualization of precipitation <a
-                  href="https://code.earthengine.google.com/84381f50bb9f021ad2a020da59c2440c" class="external-link"><img
-                    src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
-                    align="center" width="195px"></a><a class="anchor" aria-label="anchor"
-                  href="#example-03-visualization-of-precipitation"></a>
-              </h3>
-              <div class="sourceCode" id="cb9">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> REQUIRE THE EE<span class="sc">-</span>CPTCITY MODULE</span>
-        <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>var cpt <span class="ot">=</span> <span class="fu">require</span>(<span class="st">"users/ambarja/ee-cptcity:cptcity"</span>);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb10">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> LET<span class="st">'S USE THE PRECIPITATION FROM GLOBAL PRECIPITATION MEASUREMENT (GPM)</span></span>
-        <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="st">var gpm = ee.ImageCollection('</span>NASA<span class="sc">/</span>GPM_L3<span class="sc">/</span>IMERG_V06<span class="st">')</span></span>
-        <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="st">           .filterDate('</span><span class="dv">2022-02-01</span><span class="st">', '</span><span class="dv">2022-02-15</span><span class="st">')</span></span>
-        <span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="st">           .max()  // Select the max precipitation.</span></span>
-        <span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a></span>
-        <span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a><span class="st">// MASK OUT LOW PRECIPITATION VALUES</span></span>
-        <span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a><span class="st">var mask = gpm.gt(0.5);</span></span>
-        <span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a><span class="st">var data = gpm.updateMask(mask);</span></span>
-        <span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a></span>
-        <span id="cb10-10"><a href="#cb10-10" aria-hidden="true" tabindex="-1"></a><span class="st">// GET THE PRECIPITATION DATA</span></span>
-        <span id="cb10-11"><a href="#cb10-11" aria-hidden="true" tabindex="-1"></a><span class="st">var PP = data.select('</span>precipitationCal<span class="st">');</span></span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb11">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> SET THE MIN AND MAX VALUE OF THE VISUALIZATION</span>
-        <span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>var MIN <span class="ot">=</span> <span class="fl">0.9</span>;</span>
-        <span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>var MAX <span class="ot">=</span> <span class="dv">40</span>;</span>
-        <span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a></span>
-        <span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> VISUALIZATION OF PRECIPITATION DATA WITH CPTCITY PALLETS</span>
-        <span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(PP,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span>cpt.pal.ncl_precip1}, <span class="st">'ncl_precip1'</span>);</span>
-        <span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(PP,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span>cpt.pal.ncl_precip2}, <span class="st">'ncl_precip2'</span>);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb12">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> VISUALIZATION OF PRECIPITATION DATA WITH INVERTED CPTCITY PALLETES</span>
-        <span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a></span>
-        <span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(PP,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span><span class="fu">cpt.pal.ncl_precip1.reverse</span>()}, <span class="st">'ncl_precip1-inv'</span>);</span>
-        <span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(PP,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span><span class="fu">cpt.pal.ncl_precip2.reverse</span>()}, <span class="st">'ncl_precip2-inv'</span>);</span></code></pre>
-              </div>
-            </div>
-            <div class="section level3">
-              <h3 id="example-04-visualization-of-nitrogen-dioxide">4. Example 04: Visualization of nitrogen dioxide <a
-                  href="https://code.earthengine.google.com/9f71b8b7ad985a88361d16f24f51cc75" class="external-link"><img
-                    src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
-                    align="center" width="195px"></a><a class="anchor" aria-label="anchor"
-                  href="#example-04-visualization-of-nitrogen-dioxide"></a>
-              </h3>
-              <div class="sourceCode" id="cb13">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> REQUIRE THE EE<span class="sc">-</span>CPTCITY MODULE</span>
-        <span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>var cpt <span class="ot">=</span> <span class="fu">require</span>(<span class="st">"users/ambarja/ee-cptcity:cptcity"</span>);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb14">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> LET<span class="st">'S USE THE NITROGEN DIOXIDE FROM SENTINEL-5P NRTI NO2</span></span>
-        <span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="st">var sen5p = ee.ImageCollection('</span>COPERNICUS<span class="sc">/</span>S5P<span class="sc">/</span>NRTI<span class="sc">/</span>L3_NO2<span class="st">')</span></span>
-        <span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a><span class="st">           .filterDate('</span><span class="dv">2022-02-01</span><span class="st">', '</span><span class="dv">2022-02-15</span><span class="st">')</span></span>
-        <span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a><span class="st">           .max()  // Select the maximmum value of NO2 .</span></span>
-        <span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a></span>
-        <span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a><span class="st">// GET THE NO2 COLUMN NUMBER DENSITY DATA</span></span>
-        <span id="cb14-7"><a href="#cb14-7" aria-hidden="true" tabindex="-1"></a><span class="st">var NO2 = sen5p.select('</span>NO2_column_number_density<span class="st">');</span></span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb15">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> SET THE MIN AND MAX VALUE OF THE VISUALIZATION</span>
-        <span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>var MIN <span class="ot">=</span> <span class="fl">0.00004</span>;</span>
-        <span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>var MAX <span class="ot">=</span> <span class="fl">0.00014</span>;</span>
-        <span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a></span>
-        <span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> VISUALIZATION OF NO2 COLUMN NUMBER DENSITY DATA WITH CPTCITY PALLETS</span>
-        <span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(NO2,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span>cpt.pal.grass_bcyr}, <span class="st">'grass_bcyr'</span>);</span>
-        <span id="cb15-7"><a href="#cb15-7" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(NO2,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span>cpt.pal.cividis}, <span class="st">'cividis'</span>);</span></code></pre>
-              </div>
-              <div class="sourceCode" id="cb16">
-                <pre
-                  class="sourceCode r"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="sc">/</span><span class="er">/</span> VISUALIZATION OF NO2 COLUMN NUMBER DENSITY DATA WITH INVERTED CPTCITY PALLETES</span>
-        <span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(NO2,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span><span class="fu">cpt.pal.grass_bcyr.reverse</span>()}, <span class="st">'grass_bcyr-inv'</span>);</span>
-        <span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a><span class="fu">Map.addLayer</span>(NO2,{min<span class="sc">:</span>MIN, max<span class="sc">:</span>MAX, palette<span class="sc">:</span><span class="fu">cpt.pal.cividis.reverse</span>()}, <span class="st">'cividis-inv'</span>);</span></code></pre>
-              </div>
-            </div>
-          </main>
+          </div>
+
         </div>
+        <div class="col-lg-3 col-md-6 mt-3">
+          <div class="card">
+            <div class="card-body">
+              <img src="https://raw.githubusercontent.com/ambarja/ee-cptcity/main/man/figures/p0.png" class="img-fluid">
+              <h3>Example 02</h3>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              </p>
+              <div class="d-flex flex-row justify-content-center">
+                <div class="p-1">
+                  <a href=""><img
+                      src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
+                      align="center" width="195px">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
 
-      </main>
-    </div>
-
+        </div>
+        <div class="col-lg-3 col-md-6 mt-3">
+          <div class="card">
+            <div class="card-body">
+              <img src="https://raw.githubusercontent.com/ambarja/ee-cptcity/main/man/figures/p0.png" class="img-fluid">
+              <h3>Example 03</h3>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              </p>
+              <div class="d-flex flex-row justify-content-center">
+                <div class="p-1">
+                  <a href=""><img
+                      src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
+                      align="center" width="195px">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
     <footer>
