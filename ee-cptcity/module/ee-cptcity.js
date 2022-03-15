@@ -104,7 +104,7 @@ exports.colorbar = function (title, minValue, maxValue, palette) {
 * Returns the cptcity color palettes.
 */
 
-exports.pa = {
+exports.pal = {
   "arendal_arctic": [
     "#2C3563",
     "#5D6695",
