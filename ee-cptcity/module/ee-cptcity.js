@@ -2313,7 +2313,7 @@ exports.pal = {
     "#883838",
     "#FFFFFF"
   ],
-  "mpl_inferno": [
+  "inferno": [
     "#000004",
     "#420A68",
     "#932667",
@@ -2321,7 +2321,7 @@ exports.pal = {
     "#FCA50A",
     "#FCFFA4"
   ],
-  "mpl_magma": [
+  "magma": [
     "#000004",
     "#3B0F70",
     "#8C2981",
@@ -2329,7 +2329,7 @@ exports.pal = {
     "#FE9F6D",
     "#FCFDBF"
   ],
-  "mpl_plasma": [
+  "plasma": [
     "#0D0887",
     "#6A00A8",
     "#B12A90",
@@ -2337,7 +2337,7 @@ exports.pal = {
     "#FCA636",
     "#F0F921"
   ],
-  "mpl_viridis": [
+  "viridis": [
     "#440154",
     "#414487",
     "#2A788E",
