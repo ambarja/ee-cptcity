@@ -54,7 +54,7 @@ link: https://github.com/davemlz/ee-pokepalettes
  *
  */
 
-exports.colorbar = function (title, minValue, maxValue, palette) {
+exports.draw_pal = function (title, minValue, maxValue, palette) {
   function makeColorBarParams(palette) {
     return {
       bbox: [0, 0, 1, 0.1],

@@ -72,7 +72,10 @@ Map.setZoom(1);
 Map.addLayer(srtm,viz,'Elevation(m)');
 ```
 
-<img src="man/figures/p0.png" width="100%"/> <br>
+<a href="https://code.earthengine.google.com/57023888fc6d613f58f42b192eff4ba8">
+ <img src="man/figures/p0.png" width="100%"/>
+</a>
+ <br>
 
 ### 🔴 **5.Examples**
 
