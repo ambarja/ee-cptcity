@@ -993,8 +993,22 @@ exports.pa = {
     "#FF6565",
     "#FF0000"
   ],
-  "h5_bone": ["#000001", "#2C2C3E", "#585C78", "#8599A5", "#B9D1D1", "#FFFFFF"],
-  "h5_cool": ["#00FFFF", "#33CCFF", "#6699FF", "#9965FF", "#CC32FF", "#FF00FF"],
+  "h5_bone": [
+    "#000001",
+    "#2C2C3E",
+    "#585C78",
+    "#8599A5",
+    "#B9D1D1",
+    "#FFFFFF"
+  ],
+  "h5_cool": [
+    "#00FFFF",
+    "#33CCFF",
+    "#6699FF",
+    "#9965FF",
+    "#CC32FF",
+    "#FF00FF"
+  ],
   "h5_copper": [
     "#000000",
     "#3F2719",
@@ -1019,10 +1033,38 @@ exports.pa = {
     "#32FF32",
     "#00FF00"
   ],
-  "h5_hot": ["#0A0000", "#900000", "#FF1700", "#FF9C00", "#FFFF35", "#FFFFFF"],
-  "h5_hsv": ["#FF0000", "#D0FF00", "#00FF5B", "#0073FF", "#B800FF", "#FF0017"],
-  "h5_jet": ["#0000BF", "#007FFF", "#3FFFFF", "#FFFF3E", "#FF7F00", "#BF0000"],
-  "h5_pink": ["#1E0000", "#905C5C", "#C58A83", "#D9C6A0", "#ECECC6", "#FFFFFF"],
+  "h5_hot": [
+    "#0A0000",
+    "#900000",
+    "#FF1700",
+    "#FF9C00",
+    "#FFFF35",
+    "#FFFFFF"
+  ],
+  "h5_hsv": [
+    "#FF0000",
+    "#D0FF00",
+    "#00FF5B",
+    "#0073FF",
+    "#B800FF",
+    "#FF0017"
+  ],
+  "h5_jet": [
+    "#0000BF",
+    "#007FFF",
+    "#3FFFFF",
+    "#FFFF3E",
+    "#FF7F00",
+    "#BF0000"
+  ],
+  "h5_pink": [
+    "#1E0000",
+    "#905C5C",
+    "#C58A83",
+    "#D9C6A0",
+    "#ECECC6",
+    "#FFFFFF"
+  ],
   "h5_spring": [
     "#FF00FF",
     "#FF33CC",
@@ -1743,7 +1785,7 @@ exports.pa = {
     "#382B26",
     "#171615"
   ],
-  "jjg_ccolo_Bionic_Blender_IE_h_a_v_e_f_u_n": [
+  "jjg_ccolo_Bionic_Blender_IE_have_fun": [
     "#FCE4A6",
     "#FACC9D",
     "#EE9E95",
@@ -1879,7 +1921,7 @@ exports.pa = {
     "#2B283A",
     "#1C1629"
   ],
-  "jjg_ccolo_electroluv_s_e_a_s_h_e_l_l_s": [
+  "jjg_ccolo_electroluv_seashells": [
     "#218695",
     "#70A0A5",
     "#AAA59D",
@@ -1887,7 +1929,7 @@ exports.pa = {
     "#5D544C",
     "#4E453E"
   ],
-  "jjg_ccolo_electroluv_s_o_l_a_r_i_s": [
+  "jjg_ccolo_electroluv_solaris": [
     "#F7B39E",
     "#E6A898",
     "#C08D89",
@@ -1895,7 +1937,7 @@ exports.pa = {
     "#6C3F58",
     "#562E46"
   ],
-  "jjg_ccolo_hana_A_m_i_k_k_a": [
+  "jjg_ccolo_hana_Amikka": [
     "#DCEADB",
     "#D5DEC2",
     "#CBBFA0",
@@ -1903,7 +1945,7 @@ exports.pa = {
     "#764E54",
     "#513C37"
   ],
-  "jjg_ccolo_hana_d_a_m_m_a_r": [
+  "jjg_ccolo_hana_dammar": [
     "#F9E7C8",
     "#F8DCC0",
     "#C2C4AB",
@@ -1911,7 +1953,7 @@ exports.pa = {
     "#627F82",
     "#5B6A69"
   ],
-  "jjg_ccolo_hana_H_a_i_k_u": [
+  "jjg_ccolo_hana_Haiku": [
     "#2D1C2E",
     "#2F3A48",
     "#386868",
@@ -1919,7 +1961,7 @@ exports.pa = {
     "#7E9C72",
     "#9E9C73"
   ],
-  "jjg_ccolo_hana_M_a_i_k_o": [
+  "jjg_ccolo_hana_Maiko": [
     "#E06376",
     "#D25276",
     "#B13D6B",
@@ -1927,7 +1969,7 @@ exports.pa = {
     "#46182A",
     "#240C15"
   ],
-  "jjg_ccolo_hana_n_a_t_u_r_a_l_l_y": [
+  "jjg_ccolo_hana_naturally": [
     "#3B3039",
     "#5A4950",
     "#8A6D73",
@@ -1935,7 +1977,7 @@ exports.pa = {
     "#C2B8A3",
     "#C1C2A3"
   ],
-  "jjg_ccolo_hana_r_a_i_n_y": [
+  "jjg_ccolo_hana_rainy": [
     "#460E8A",
     "#2E3A96",
     "#2880A2",
@@ -1943,7 +1985,7 @@ exports.pa = {
     "#ADB898",
     "#BDBC93"
   ],
-  "jjg_ccolo_hana_S_e_a": [
+  "jjg_ccolo_hana_Sea": [
     "#C6C7A9",
     "#B1C0A9",
     "#89ACAF",
@@ -1951,7 +1993,7 @@ exports.pa = {
     "#3C73C0",
     "#5062CC"
   ],
-  "jjg_ccolo_hana_S_e_p_t_e_m_b_e_r": [
+  "jjg_ccolo_hana_September": [
     "#3B6E69",
     "#427A6A",
     "#6E9974",
@@ -1959,7 +2001,7 @@ exports.pa = {
     "#C9C378",
     "#BDB168"
   ],
-  "jjg_ccolo_hana_S_u_g_a_r": [
+  "jjg_ccolo_hana_Sugar": [
     "#CF8C76",
     "#CF9C86",
     "#CFBBA6",
@@ -2263,7 +2305,14 @@ exports.pa = {
     "#E0E0E0",
     "#EEEEEE"
   ],
-  "mby_mby": ["#000050", "#0F6094", "#9FDAFD", "#669F4E", "#883838", "#FFFFFF"],
+  "mby_mby": [
+    "#000050",
+    "#0F6094",
+    "#9FDAFD",
+    "#669F4E",
+    "#883838",
+    "#FFFFFF"
+  ],
   "mpl_inferno": [
     "#000004",
     "#420A68",
@@ -2656,7 +2705,14 @@ exports.pa = {
     "#9D7409",
     "#FFFFFF"
   ],
-  "oc_ndvi": ["#EBEBEB", "#F3BB58", "#96B613", "#3D8601", "#004800", "#011301"],
+  "oc_ndvi": [
+    "#EBEBEB",
+    "#F3BB58",
+    "#96B613",
+    "#3D8601",
+    "#004800",
+    "#011301"
+  ],
   "oc_rainbow": [
     "#90006F",
     "#000DFF",
@@ -2665,9 +2721,30 @@ exports.pa = {
     "#FF5100",
     "#690000"
   ],
-  "oc_sst": ["#63098B", "#08749C", "#08BF72", "#DDE508", "#6D0F0F", "#CCCCCC"],
-  "oc_zeu": ["#6F3B01", "#9AB918", "#00BB81", "#0042FF", "#6C55FF", "#340135"],
-  "pn_moon": ["#8CA6CC", "#A2B6D3", "#B8C7D7", "#CFDADE", "#E6ECE3", "#FBFCEA"],
+  "oc_sst": [
+    "#63098B",
+    "#08749C",
+    "#08BF72",
+    "#DDE508",
+    "#6D0F0F",
+    "#CCCCCC"
+  ],
+  "oc_zeu": [
+    "#6F3B01",
+    "#9AB918",
+    "#00BB81",
+    "#0042FF",
+    "#6C55FF",
+    "#340135"
+  ],
+  "pn_moon": [
+    "#8CA6CC",
+    "#A2B6D3",
+    "#B8C7D7",
+    "#CFDADE",
+    "#E6ECE3",
+    "#FBFCEA"
+  ],
   "rc_aquamarinemermaid": [
     "#662A70",
     "#A25783",
@@ -2852,7 +2929,14 @@ exports.pa = {
     "#D8DC8D",
     "#DD8EA7"
   ],
-  "rc_leo": ["#3F2E20", "#955635", "#DF8262", "#DF8262", "#955635", "#3F2E20"],
+  "rc_leo": [
+    "#3F2E20",
+    "#955635",
+    "#DF8262",
+    "#DF8262",
+    "#955635",
+    "#3F2E20"
+  ],
   "rc_liahlah2": [
     "#7B91CC",
     "#8B68DE",
@@ -2869,7 +2953,14 @@ exports.pa = {
     "#683964",
     "#252A6A"
   ],
-  "rc_otis": ["#6A1CA8", "#609243", "#48C822", "#117F8B", "#0067AE", "#0067AE"],
+  "rc_otis": [
+    "#6A1CA8",
+    "#609243",
+    "#48C822",
+    "#117F8B",
+    "#0067AE",
+    "#0067AE"
+  ],
   "rc_parrot": [
     "#C30021",
     "#DFA84A",
@@ -3190,7 +3281,28 @@ exports.pa = {
     "#E0CB73",
     "#B0783A"
   ],
-  "mako": ["#0B0405", "#382A54", "#395D9C", "#3497A9", "#60CEAC", "#DEF5E5"],
-  "rocket": ["#03051A", "#4C1D4B", "#A11A5B", "#E83F3E", "#F69C73", "#FAEBDD"],
-  "turbo": ["#30123B", "#3E9BFE", "#46F884", "#E1DC37", "#F05B12", "#7A0403"]
+  "mako": [
+    "#0B0405",
+    "#382A54",
+    "#395D9C",
+    "#3497A9",
+    "#60CEAC",
+    "#DEF5E5"
+  ],
+  "rocket": [
+    "#03051A",
+    "#4C1D4B",
+    "#A11A5B",
+    "#E83F3E",
+    "#F69C73",
+    "#FAEBDD"
+  ],
+  "turbo": [
+    "#30123B",
+    "#3E9BFE",
+    "#46F884",
+    "#E1DC37",
+    "#F05B12",
+    "#7A0403"
+  ]
 };
