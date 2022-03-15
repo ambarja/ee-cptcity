@@ -1,7 +1,7 @@
 library(tidyverse)
 library(rjson)
 
-path <- "basedata/"
+path <- "../resources/top-palettes/"
 list.gpf <- list.files(
   path = path,
   pattern = ".gpf$",
@@ -27,10 +27,13 @@ data_rgb <- lapply(list.gpf, new_color)
 names(data_rgb) <- name_color
 
 rgb_to_hex <- function(color) {
-  hexcolor <- rgb(color[["r"]], color[["g"]], color[["b"]])
-  return(hexcolor)
+  hexcolor   <- rgb(color[["r"]], color[["g"]], color[["b"]])
+  finalcolor <- colorRampPalette(hexcolor)(6)
+  return(finalcolor)
 }
 
 data_hex <- lapply(X = data_rgb, FUN = rgb_to_hex)
+# test <- data_hex$mpl_viridis
+# image(matrix(1:100),col = test)
 export_cptcity <- toJSON(data_hex)
-write(export_cptcity, "ee-cptcity.js")
+write(export_cptcity, "ee-cptcity2.js")
